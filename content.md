@@ -20,7 +20,6 @@ Hi, I’m Sarah. I'm a programmer who speak in Dart, Kotlin, and Java. I'm a par
 
 ## About this page
 
-This page consist of only two resources: the HTML and the picture.
+This page consist of only one resource: the HTML.
 The ‘appearing’ effect is achieved using the CSS `keyframes` feature, and it is
-orchestrated by a compile-time Dart script accessible 
-[here](https://github.com/filiph/filiphnet/blob/master/tool/spanify.dart).
+orchestrated by a compile-time Dart script created by [filiph](https://github.com/filiph/filiphnet/blob/master/tool/spanify.dart).
