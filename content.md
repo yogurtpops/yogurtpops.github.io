@@ -3,11 +3,11 @@
 Hi, I’m Sarah. I'm a programmer who speak in Dart, Kotlin, and Java. I'm a part of amazing team of developers goes by the name [Digital Nomad Agency](https://www.dnadeveloper.com/).
 
 ## Projects
-* https://play.google.com/store/apps/details?id=com.audev.funalarm
+* (https://play.google.com/store/apps/details?id=com.audev.funalarm)
 
 ## Experiments
 * Implementation of google play asset delivery library in flutter (proof of concept)
-  https://play.google.com/store/apps/details?id=com.dididi.basictomodular
+  (https://play.google.com/store/apps/details?id=com.dididi.basictomodular)
 
 ## Social
 
